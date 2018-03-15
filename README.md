@@ -22,18 +22,18 @@ Supports Chrome, Safari, Firefox, Opera, and Edge browsers. IE is not supported.
 
 14 keywords are supported currently
 
-_tag *,
-_attr (collection of element html attributes *),
-_text *,
-_html *,
-_jqext (collection of event function),
-_items (collection of sub-element),
-_if *,
-_dataModel *,
-_dataRepeat * (_data, _item, _idx, _key, _supData),
-_formatGet **,
-_formatSet **,
-_load *,
-_focus *,
+_tag *
+_attr (collection of element html attributes *)
+_text *
+_html *
+_jqext (collection of event function)
+_items (collection of sub-element)
+_if *
+_dataModel *
+_dataRepeat * (_data, _item, _idx, _key, _supData)
+_formatGet **
+_formatSet **
+_load *
+_focus *
 _animation (_show, _hide)
 
