@@ -22,6 +22,7 @@ Supports Chrome, Safari, Firefox, Opera, and Edge browsers. IE is not supported.
 
 14 keywords are supported currently
 
+```javascript
 _tag *
 _attr (collection of element html attributes *)
 _text *
