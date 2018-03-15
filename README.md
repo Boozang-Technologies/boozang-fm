@@ -2,7 +2,7 @@
 
 ## Usage
 
-To run the example code on Mac simply run any web server
+To run the example code simply run any web server and open example.html
 
 On Mac:
 
